@@ -1,0 +1,2 @@
+The project deal with high-fi 3D car racing designing with simple controls and even many more effects suitable things to be implemented like sound effects , 3D models etc..
+interested people can contact me through my email!
